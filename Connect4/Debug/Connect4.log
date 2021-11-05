@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+C:\Users\piotr\source\repos\Connect4\Źródło.cpp(156,12): warning C4129: "|": nierozpoznany znak sekwencji ucieczki
+C:\Users\piotr\source\repos\Connect4\Źródło.cpp(160,12): warning C4129: "|": nierozpoznany znak sekwencji ucieczki
+C:\Users\piotr\source\repos\Connect4\Źródło.cpp(230,12): warning C4129: "|": nierozpoznany znak sekwencji ucieczki
+C:\Users\piotr\source\repos\Connect4\Źródło.cpp(235,11): warning C4129: "|": nierozpoznany znak sekwencji ucieczki
+C:\Users\piotr\source\repos\Connect4\Źródło.cpp(241,11): warning C4129: "|": nierozpoznany znak sekwencji ucieczki
+  Connect4.vcxproj -> C:\Users\piotr\source\repos\Connect4\Debug\Connect4.exe

@@ -1,0 +1,2 @@
+C:\Users\piotr\source\repos\Connect4\Debug\Connect4.exe
+C:\Users\piotr\source\repos\Connect4\Debug\Connect4.pdb
